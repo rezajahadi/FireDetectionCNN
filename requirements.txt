@@ -1,0 +1,7 @@
+torch==1.13.1  # Adjust version based on your environment
+torchvision==0.14.1  # Should match the PyTorch version
+numpy==1.23.4
+Pillow==9.3.0
+matplotlib==3.6.2
+tk  # Built-in tkinter library; may not need to be listed for most environments
+
